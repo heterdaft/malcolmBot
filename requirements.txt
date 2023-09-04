@@ -1,0 +1,2 @@
+git+https://github.com/rawbeen72/fbchat-bot@main
+discord >= 2.3.2
